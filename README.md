@@ -40,8 +40,6 @@ Está pensada como una alternativa **ligera, sencilla y económica** frente a lo
 - **Simulación de datos PLC**: simulación de inicios/fines de producción y alarma, temperaturas y unidades fabricadas (se deshabilita si el origen de datos es el PLC)
 - **Gestión de usuarios** (solo administradores): eliminar usuarios o concederles rol de administrador
 
-> 📌 *Añade aquí capturas reales de las pantallas de tu aplicación.*
-
 ## 🔗 Lógica de recogida de datos
 
 La aplicación ejecuta una **tarea cíclica cada segundo** que comprueba el estado de la conexión y escucha los triggers del PLC:
