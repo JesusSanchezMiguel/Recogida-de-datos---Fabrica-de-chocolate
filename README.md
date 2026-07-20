@@ -96,7 +96,7 @@ Para simular el PLC durante el desarrollo se ha usado:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/JesusSanchezMiguel/<nombre-del-repo>.git
+   git clone https://github.com/JesusSanchezMiguel/Recogida-de-datos---Fabrica-de-chocolate.git
    ```
 2. Importa el proyecto en **NetBeans**
 3. Crea la base de datos MySQL (`proyecto_jsm`) y ejecuta el script de creación de tablas incluido en el repo
